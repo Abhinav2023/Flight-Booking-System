@@ -61,7 +61,7 @@ public class Airline extends JFrame{
 		frame.getContentPane().add(label);
 		
 		JLabel label_1 = new JLabel("");
-		label_1.setIcon(new ImageIcon("C:\\Users\\Mithun\\Downloads\\20171109195143.jpg"));
+		label_1.setIcon(new ImageIcon("C:\\Users\\Ankit\\Downloads\\20171109195143.jpg"));
 		label_1.setBounds(435, 115, 382, 258);
 		frame.getContentPane().add(label_1);
 
